@@ -1,4 +1,4 @@
-# 🪙 Projeto: Crypto Monitor
+#  Projeto: Crypto Monitor
 
 ## 👨‍💻 Desenvolvido por:
 **Felipe Marino**  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📱 Descrição do Projeto
+##  Descrição do Projeto
 
 O **Crypto Monitor** é um aplicativo Android desenvolvido em **Kotlin** que consome a API REST do site Mercado Bitcoin para exibir a **cotação atual do Bitcoin (BTC)**. 
 
@@ -18,11 +18,11 @@ Este projeto tem como objetivo aplicar conceitos de:
 
 ---
 
-## 🌐 API Utilizada
+##  API Utilizada
 
 - **URL base:** `https://www.mercadobitcoin.net/api/BTC/ticker/`
 
-### 🔁 Exemplo de retorno (JSON)
+###  Exemplo de retorno (JSON)
 ```json
 {
   "ticker": {
@@ -59,9 +59,9 @@ Este projeto tem como objetivo aplicar conceitos de:
 
 ---
 
-## 🖼️ Prints das Telas
+##  Prints das Telas
 
-> 🔎 Imagens ilustrativas com a exibição da cotação do BTC (adaptadas do repositório original)
+>  Imagens ilustrativas com a exibição da cotação do BTC
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/carreiras/kotlin-android-crypto-monitor/master/images/img1.png" width="250"/>
@@ -70,9 +70,7 @@ Este projeto tem como objetivo aplicar conceitos de:
 
 ---
 
-## 🧪 Como Rodar o Projeto
-
-> ⚠️ **Observação**: este projeto requer o Android Studio para ser executado.
+##  Como Rodar o Projeto
 
 1. Clone o repositório:
 ```bash
@@ -84,7 +82,7 @@ git clone https://github.com/carreiras/kotlin-android-crypto-monitor.git
 
 ---
 
-## 📚 Conceitos Abordados
+##  Conceitos Abordados
 
 - **REST**: arquitetura de serviços baseada em HTTP (GET, POST, PUT, DELETE)
 - **JSON**: estrutura leve para transporte de dados
@@ -93,10 +91,10 @@ git clone https://github.com/carreiras/kotlin-android-crypto-monitor.git
 
 ---
 
-## ✅ Conclusão
+##  Conclusão
 
 Este projeto demonstra, de forma prática, como integrar um app Android com uma API pública da web para obter dados em tempo real e exibi-los ao usuário de forma clara e objetiva.
 
 ---
 
-📁 [Repositório Base no GitHub](https://github.com/carreiras/kotlin-android-crypto-monitor)
+ [Repositório Base no GitHub](https://github.com/carreiras/kotlin-android-crypto-monitor)
